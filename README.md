@@ -1,4 +1,4 @@
-### Opa, pessoal!
+### Bem vindo ao meu GitHub!
 
 - Atualmente estou estudando JavaScript;
 - Tenho experiencia com Html, Css e Java;
