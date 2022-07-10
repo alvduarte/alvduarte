@@ -1,6 +1,6 @@
 ### Bem vindo ao meu GitHub!
 
-- Atualmente estou estudando JavaScript;
+- Atualmente estou estudando JavaScript e C#;
 - Tenho experiencia com Html, Css e Java;
 - Focado em aprender sempre novas tecnologias front-end;
 - Brasileiro, 20 anos.
