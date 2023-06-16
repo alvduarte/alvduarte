@@ -1,6 +1,6 @@
 ### Bem vindo ao meu GitHub!
 
-- Html, Css e JS;
+- Praticando Html, Css e JS;
 - Brasileiro, 21 anos.
 
 ##
