@@ -1,6 +1,6 @@
 ### Bem vindo ao meu GitHub!
 
-- Aprendendo PYthon;
+- Aprendendo Python;
 - Experiencia em Html, Css e JS;
 - Brasileiro, 23 anos.
 
