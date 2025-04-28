@@ -1,7 +1,8 @@
 ### Bem vindo ao meu GitHub!
 
-- Praticando Html, Css e JS;
-- Brasileiro, 21 anos.
+- Aprendendo PYthon;
+- Experiencia em Html, Css e JS;
+- Brasileiro, 23 anos.
 
 ##
 
